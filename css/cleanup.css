@@ -1,1 +1,35 @@
-/* write your override styles here */
+/* Select the image with a class of tag-1 */
+#wall .tag-1 {
+    display: none;
+  }
+  
+  /* Select the image with an id of tag-2 */
+  #tag-2 {
+    display: none;
+  }
+  
+  /* Select the image with an id of tag-3 and class of slick */
+  #tag-3.slick {
+    display: none;
+  }
+  
+  /* Select the image with an id of tag-4 */
+  #tag-4 {
+    display: none;
+  }
+  
+  /* Select the image with an id of tag-5 and class of slick */
+  #tag-5.slick {
+    display: none;
+  }
+  
+  /* Select the image with an id of tag-6 */
+  #tag-6 {
+    display: none;
+  }
+  
+  /* Select the image with an id of tag-7 and class of slick */
+  #tag-7.slick {
+    display: none;
+  }
+  
